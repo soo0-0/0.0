@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  position: relative;
+  box-sizing: border-box;
+  background-color: aqua;
+}
+
+.ko{
+    margin: 30px;
+  font-size: 18px;
+  font-family: 'Courier New', Courier, monospace;
+  line-height: 1.6;
+  text-align: left;
+    }
+
+
+.en{
+    margin: 30px;
+  font-size: 18px;
+  font-family: 'Courier New', Courier, monospace;
+  line-height: 1.5;
+  text-align: left;
+    }
